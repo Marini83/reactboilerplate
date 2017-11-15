@@ -1,0 +1,27 @@
+@import "base/variables";
+
+// foundation
+@import "base/foundation-settings";
+@import "foundation";
+@include foundation-everything;
+
+
+
+
+
+
+
+
+
+
+
+
+p {
+	color: rgb(19, 114, 202);
+	margin-bottom: 0rem;
+}
+
+#mainP{
+	color:purple;	
+}
+
